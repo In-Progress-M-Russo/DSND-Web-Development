@@ -10,7 +10,7 @@ Contains examples on how to:
 * Set up a simple backend using [Flask](https://flask.palletsprojects.com/en/1.1.x/) ([here](exercises/Flask_Exercise))
 
 ## Requirements
-In order to facilitate the execution of the Notebook I have prepared an [`environment.yml`](./environment.yml) file to be used to install an environment with [Anaconda](https://www.continuum.io/downloads):
+In order to facilitate the execution of the backend exercises I have prepared an [`environment.yml`](./environment.yml) file to be used to install an environment with [Anaconda](https://www.continuum.io/downloads):
 
 ```sh
 conda env create -f environment.yml
