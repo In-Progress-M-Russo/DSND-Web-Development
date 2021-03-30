@@ -1,0 +1,12 @@
+<!doctype html>
+
+<html>
+<head>
+  <title>404 - Not Found</title>
+</head>
+
+<body>
+  <!-- reference static picture file as decribed in https://stackoverflow.com/questions/28207761/where-does-flask-look-for-image-files -->
+  <!-- picture courtesy of https://http.cat/  -->
+  <img src="{{url_for('static', filename='404.jpeg')}}", alt='NOT FOUND'>
+</body>
