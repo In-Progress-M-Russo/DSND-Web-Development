@@ -8,8 +8,6 @@ dependencies:
     - pip:
         - numpy
         - matplotlib
-        - jupyter
         - pandas
         - scikit-learn
-        - seaborn
         - flask
